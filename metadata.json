@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Guion de Radionoticiero",
+  "description": "Una aplicación que busca las noticias más importantes del día en Guatemala, genera un guion de radionoticiero con dos voces y lo convierte en audio usando TTS.",
+  "requestFramePermissions": []
+}
